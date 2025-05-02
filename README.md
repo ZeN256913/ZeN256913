@@ -3,6 +3,12 @@
 
 - I’m interested in Python programming.
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,html,css,javascript,vim" />
+  </a>
+</p>
+
 - Contact me :
 -     For email:ZZM256913@163.com
 -     For Bilibili:https://space.bilibili.com/3461562442451888
