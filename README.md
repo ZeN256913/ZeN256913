@@ -11,6 +11,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeN256913)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeN256913&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 - Contact me :
 -     For email:ZZM256913@163.com
 -     For Bilibili:https://space.bilibili.com/3461562442451888
