@@ -1,6 +1,6 @@
 <HTML>
-<h1>Hi, I’m @ZeN256913
-    a senior high in Shanghai,China.</h1>
+<h1>Hi, I’m @ZeN256913</h1>
+<h1>A senior high in Shanghai,China.</h1>
 
 - I’m interested in Python programming and Web developing.
 
