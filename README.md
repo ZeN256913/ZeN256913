@@ -1,7 +1,7 @@
 <HTML>
 - Hi, I’m @ZeN256913 , a senior high in Shanghai,China.
 
-- I’m interested in Python programming.
+- I’m interested in Python programming and Web developing.
 
 <p align="center">
   <a href="https://skillicons.dev">
